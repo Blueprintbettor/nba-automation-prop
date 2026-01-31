@@ -1,8 +1,0 @@
-- Complete modules:
-   - pra_evaluator.py
-   - slip_builder.py
-   - espn_scraper.py
-- Follow rules from Bettor Blueprint
-- Use main.py, bdl_api.py as base
-- Deploy and test to Cloud Run
-- Goal: take Sheet props → analyze → format → send to Discord
